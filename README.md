@@ -84,4 +84,3 @@ These issues were handled using **SQL-based data cleaning and validation queries
 
 ---
 
-## 📂 Repository Structure
